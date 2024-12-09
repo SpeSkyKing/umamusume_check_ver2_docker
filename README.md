@@ -1,2 +1,0 @@
-# umamusume_check_ver2_docker
-# umamusume_check_ver2_docker
